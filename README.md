@@ -9,7 +9,11 @@ The android-notification-foreground app contains an **EditText** field for user 
 
 ## Features
 The setting of this program is a reminder app. The user can create a new reminder by filling the EditText field with some text. Clicking the Button creates a Notification
-that takes the content of the EditText field. This Notification gets displayed on the screen and stays in the Notification Center of the phone afterwards. 
+that takes the content of the EditText field. This Notification gets displayed on the screen and stays in the Notification Center of the phone afterwards. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
+![](demo_pictures/Screen3.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
